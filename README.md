@@ -4,11 +4,12 @@ SecDroidBug is an Android debugger that simplifies debugging and testing of Andr
 SecDroidBug requires Java source code of the Android App. Therefore it can be used only with Apps whose source code is available. It is extremely useful for App developers to debug their Apps for security properties. 
 
 ## Usage
-SecDroidBug can be used from both commandline and using Netbeans IDE.
 
 ### Runnning App
 
 ### Runnning SecDroidBug
+
+SecDroidBug can be launched from both commandline and Netbeans IDE.
 
 ### Using Netbeans
 1. Download and open project with Netbeans 8.2
@@ -17,4 +18,6 @@ SecDroidBug can be used from both commandline and using Netbeans IDE.
 
 ### Using commandline
 1. Put SecDroidBug.jar and sources_a and sinks_a in same folder
+
+After launch browse the source file and set breakpoints and click on Start Debugging button.
 
