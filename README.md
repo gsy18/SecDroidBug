@@ -23,5 +23,5 @@ SecDroidBug requires Java source code of the Android App. Therefore it can be us
       1. Put `SecDroidBug.jar`, `sources_a` and `sinks_a` files from project in same folder
       2. Run SecDroidBug using `java -jar SecDroidBug.jar`
 
-After launch, browse the source file and set breakpoints and click on Start Debugging button.
+After launch, browse the source file and set breakpoints and click on 'Start Debugging' button.
 
