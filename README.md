@@ -6,6 +6,7 @@ SecDroidBug requires Java source code of the Android App. Therefore it can be us
 ## Usage
 
 ### Runnning App
+Run `./run.sh APK_FILE` to run the Android App. This will both install and Run App in debg mode to wait for debugger to connect.
 
 ### Runnning SecDroidBug
 
@@ -17,7 +18,8 @@ SecDroidBug can be launched from both commandline and Netbeans IDE.
 3. Run project
 
 ### Using commandline
-1. Put `SecDroidBug.jar` and sources_a and sinks_a in same folder
+1. Put `SecDroidBug.jar`, `sources_a` and `sinks_a` files in same folder
+2. Run SecDroidBug using `java -jar SecDroidBug`
 
-After launch browse the source file and set breakpoints and click on Start Debugging button.
+After launch, browse the source file and set breakpoints and click on Start Debugging button.
 
