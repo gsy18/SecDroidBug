@@ -17,7 +17,7 @@ SecDroidBug can be launched from both commandline and Netbeans IDE.
 3. Run project
 
 ### Using commandline
-1. Put SecDroidBug.jar and sources_a and sinks_a in same folder
+1. Put `SecDroidBug.jar` and sources_a and sinks_a in same folder
 
 After launch browse the source file and set breakpoints and click on Start Debugging button.
 
