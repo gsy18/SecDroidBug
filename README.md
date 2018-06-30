@@ -12,16 +12,16 @@ SecDroidBug requires Java source code of the Android App. Therefore it can be us
 
 2. ### Runnning SecDroidBug
 
-  SecDroidBug can be launched from both commandline and Netbeans IDE.
+   SecDroidBug can be launched from both commandline and Netbeans IDE.
 
-  ### Using Netbeans
-  1. Download and open project with Netbeans 8.2
-  2. Add downloaded tool.jar into classpath of project
-  3. Run project
+   1. ### Using Netbeans
+      1. Download and open project with Netbeans 8.2
+      2. Add downloaded tool.jar into classpath of project
+      3. Run project
 
-  ### Using commandline
-  1. Put `SecDroidBug.jar`, `sources_a` and `sinks_a` files in same folder
-  2. Run SecDroidBug using `java -jar SecDroidBug.jar`
+   2. ### Using commandline
+      1. Put `SecDroidBug.jar`, `sources_a` and `sinks_a` files in same folder
+      2. Run SecDroidBug using `java -jar SecDroidBug.jar`
 
 After launch, browse the source file and set breakpoints and click on Start Debugging button.
 
