@@ -6,9 +6,9 @@ SecDroidBug requires Java source code of the Android App. Therefore it can be us
 ## Usage
 
 1. ### Runnning App 
-       1. Find .apk file of the App, the APK must be debuggable.
-       2. Run `./run.sh APK_FILE` to run the Android App. This will both install and run App 
-          in debgug mode to wait for debugger to connect.
+   1. Find .apk file of the App, the APK must be debuggable.
+   2. Run `./run.sh APK_FILE` to run the Android App. This will both install and run App 
+      in debgug mode to wait for debugger to connect.
 
 2. ### Runnning SecDroidBug
 
