@@ -3,6 +3,10 @@ SecDroidBug is an Android debugger that simplifies debugging and testing of Andr
 
 SecDroidBug requires Java source code of the Android App. Therefore it can be used only with Apps whose source code is available. It is extremely useful for App developers to debug their Apps for security properties. 
 
+## Prerequisite
+1. Java 8 or higher
+2. Android Adb tools (add platform-tools directory to path)
+
 ## Usage
 
 1. ### Runnning Android App to make it wait for SecDroidBug to connect 
