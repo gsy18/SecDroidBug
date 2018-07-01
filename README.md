@@ -29,4 +29,5 @@ SecDroidBug requires Java source code of the Android App. Therefore it can be us
       2. Run SecDroidBug using `java -jar SecDroidBug.jar`
 
 After launch, browse the source file and set breakpoints and click on 'Start Debugging' button.
+We also developed a tool called 'ApiCallsWithDeb' to get method calls in Android App, which was useful for our testing . https://github.com/gsy18/ApiCallsWithDeb
 
