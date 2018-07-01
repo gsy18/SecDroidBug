@@ -6,6 +6,7 @@ SecDroidBug requires Java source code of the Android App. Therefore it can be us
 ## Prerequisite
 1. Java 8 or higher
 2. Android Adb tools (add platform-tools directory to path)
+3. Netbeans 8.2 or higher (if not running using command-line)
 
 ## Usage
 
